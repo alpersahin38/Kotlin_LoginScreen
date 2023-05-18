@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LoginScreenDesign</string>
+    <string name="kullaniciAdi">User Name</string>
+    <string name="sifre">Password</string>
+    <string name="butonYazı">LOGIN</string>
+    <string name="yardım">Help ?</string>
+
+
+</resources>
